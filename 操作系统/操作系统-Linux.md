@@ -143,7 +143,7 @@ cp -r source destination
 7. rm 删除文件
 
 ```
-rm -rf：删库跑路
+rm -rf：删库跑路一气呵成
 ```
 
 8. mv 移动文件
