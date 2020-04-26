@@ -83,4 +83,6 @@ hexo 有很多主题能进行页面美化，常见的有 next、Yilia、Melody�
 
 我使用的是国人制作的 Fluid，功能多样，文档详实，还有微信群...
 
+我的[hexo博客](https://barrybean.github.io/)
+
 Fluid 的 [GitHub](https://github.com/fluid-dev/hexo-theme-fluid) 和 [官方文档](https://hexo.fluid-dev.com/docs/guide/)。

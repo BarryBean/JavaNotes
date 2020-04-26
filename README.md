@@ -60,6 +60,8 @@
 
 [RESTFul架构风格](https://github.com/BarryBean/JavaNotes/blob/master/开发思想/RESTFul架构-风格.md)
 
+[敏捷开发](https://github.com/BarryBean/JavaNotes/blob/master/开发思想/敏捷开发.md)
+
 # 智力题
 
 [智力题](https://github.com/BarryBean/JavaNotes/blob/master/智力题/智力题.md)
@@ -67,3 +69,5 @@
 # 工具
 
 [Git](https://github.com/BarryBean/JavaNotes/blob/master/工具/常用工具-Git.md)
+
+[hexo博客建站](https://github.com/BarryBean/JavaNotes/blob/master/工具/hexo静态博客建站.md)
