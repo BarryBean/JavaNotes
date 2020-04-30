@@ -71,7 +71,7 @@ deploy:
 ```
 注：type、repo 和 branch 冒号后都有一个空格。
 
-               
+
 4. 部署
 ```shell
 hexo d
@@ -86,3 +86,4 @@ hexo 有很多主题能进行页面美化，常见的有 next、Yilia、Melody�
 我的[hexo博客](https://barrybean.github.io/)
 
 Fluid 的 [GitHub](https://github.com/fluid-dev/hexo-theme-fluid) 和 [官方文档](https://hexo.fluid-dev.com/docs/guide/)。
+
