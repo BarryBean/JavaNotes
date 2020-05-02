@@ -62,6 +62,10 @@
 
 [敏捷开发](https://github.com/BarryBean/JavaNotes/blob/master/开发思想/敏捷开发.md)
 
+# 设计模式
+
+[设计模式](https://github.com/BarryBean/JavaNotes/blob/master/设计模式/设计模式.md)
+
 # 智力题
 
 [智力题](https://github.com/BarryBean/JavaNotes/blob/master/智力题/智力题.md)
