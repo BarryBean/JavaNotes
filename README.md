@@ -2,6 +2,10 @@
 
 [AlgorithmNotes](https://github.com/BarryBean/AlgorithmNotes)
 
+[剑指Offer](https://github.com/BarryBean/Sword2Offer)
+
+[力扣Hot100](https://github.com/BarryBean/LeetCodeTop100)
+
 # Java基础
 
 [必知必会](https://github.com/BarryBean/JavaNotes/blob/master/Java基础/Java基础-必知必会.md)
