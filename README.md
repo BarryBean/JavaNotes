@@ -22,6 +22,8 @@
 
 [Redis](https://github.com/BarryBean/JavaNotes/blob/master/数据库/缓存技术-redis.md)
 
+[力扣数据库题解](https://github.com/BarryBean/JavaNotes/blob/master/数据库/力扣数据库题解.md)
+
 # 框架
 
 [Spring](https://github.com/BarryBean/JavaNotes/blob/master/框架/Java框架-Spring.md)
